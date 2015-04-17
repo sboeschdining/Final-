@@ -1,21 +1,12 @@
-# Final-
-Final Project 5.0
 <?php
 /* php code can go anywhere but we will be starting almost all our documents
  * with php code There is no code here at the moment */
 ?>
 <!DOCTYPE HTML>
 <html lang="en">
-<head>
-        <meta charset="utf-8">
-        <meta name="author" content="Smita Boesch-Dining">
-        <meta name="description" content="">
-        <title>Women'sTeam</title>  
-        <link rel="stylesheet"
-              href="style.css"
-              type="text/css"
-              media="screen">
-    </head> 
+<?php
+include ("top.php");
+?>
 <body>
   
     <p><h1><b><center><font face="Calisto MT">UVM Women's Cross Country</center></b></h1></font></p> 
@@ -25,13 +16,7 @@ Final Project 5.0
 
 
 
-    <nav id="mainMenu">
-            <ol>
-                <ul style="list-style-type:none">
-                <center><li class="menuLink"><a href="index.php">Home</a></li></center>
-                </ul>
-            </ol>
-        </nav>
+
     
 <p><h2><b><i>Catamount's in the house, RAW, RAW, RAW, RAW!</i></b></h2></p>
 
